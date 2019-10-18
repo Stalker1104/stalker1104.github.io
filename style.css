@@ -1,0 +1,380 @@
+.bx {
+    background: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    width: 1200px;
+    height: 77px;
+}
+
+._lifestyle {
+    color: rgb(2, 120, 244);
+    font-size: 14px;
+    font-family: "Times New Roman";
+    text-transform: uppercase;
+    line-height: 1.714;
+    text-align: center;
+    position: absolute;
+    left: 313px;
+    top: 76px;
+    width: 74px;
+    height: 10px;
+    z-index: 70;
+}
+
+.photodiary {
+    font-size: 14px;
+    font-family: "Times New Roman";
+    color: rgb( 98, 98, 98);
+    text-transform: uppercase;
+    line-height: 1.714;
+    text-align: center;
+    position: absolute;
+    left: 504px;
+    top: 76px;
+    width: 90px;
+    height: 10px;
+    z-index: 69;
+}
+
+.music {
+    font-size: 14px;
+    font-family: "Times New Roman";
+    color: rgb( 98, 98, 98);
+    text-transform: uppercase;
+    line-height: 1.714;
+    text-align: center;
+    position: absolute;
+    left: 695px;
+    top: 76px;
+    width: 45px;
+    height: 10px;
+    z-index: 68;
+}
+
+.travel {
+    font-size: 14px;
+    font-family: "Times New Roman";
+    color: rgb( 98, 98, 98);
+    text-transform: uppercase;
+    line-height: 1.714;
+    text-align: center;
+    position: absolute;
+    left: 833px;
+    top: 76px;
+    width: 54px;
+    height: 10px;
+    z-index: 67;
+}
+
+.image1 {
+    position: absolute;
+    left: 115px;
+    top: 192px;
+    width: 420px;
+    height: 280px;
+    z-index: 62;
+}
+
+.image2 {
+    position: absolute;
+    left: 630px;
+    top: 192px;
+    width: 422px;
+    height: 321px;
+    z-index: 53;
+}
+
+.image3 {
+    position: absolute;
+    left: 115px;
+    top: 700px;
+    width: 488px;
+    height: 326px;
+    z-index: 42;
+}
+
+.image4 {
+    position: absolute;
+    left: 630px;
+    top: 700px;
+    width: 420px;
+    height: 298px;
+    z-index: 33;
+}
+
+.image5 {
+    position: absolute;
+    left: 115px;
+    top: 1150px;
+    width: 431px;
+    height: 647px;
+    z-index: 22;
+}
+
+.image6 {
+    position: absolute;
+    left: 630px;
+    top: 1150px;
+    width: 453px;
+    height: 316px;
+    z-index: 13;
+}
+
+.Lifestyle {
+    font-size: 14px;
+    font-family: "Ubuntu";
+    color: rgb( 180, 173, 158);
+    text-transform: uppercase;
+    position: absolute;
+    left: 115px;
+    top: 503px;
+    width: 63px;
+    height: 11px;
+    z-index: 59;
+}
+
+.More_than_just_a_music_festival_ {
+    font-size: 30px;
+    font-family: "PlayfairDisplay";
+    color: rgb( 98, 98, 98);
+    position: absolute;
+    left: 115px;
+    top: 542px;
+    width: 407px;
+    height: 30px;
+    z-index: 58;
+}
+
+.text1 {
+    font-size: 14px;
+    font-family: "PlayfairDisplay";
+    color: rgb( 98, 98, 98);
+    line-height: 1.714;
+    text-align: left;
+    position: absolute;
+    left: 115px;
+    top: 606px;
+    width: 414px;
+    height: 63px;
+    z-index: 57;
+}
+
+.lifestyle {
+    font-size: 14px;
+    font-family: "Ubuntu";
+    color: rgb( 180, 173, 158);
+    text-transform: uppercase;
+    position: absolute;
+    left: 630px;
+    top: 503px;
+    width: 63px;
+    height: 11px;
+    z-index: 50;
+}
+
+.Life_tastes_better_with_coffee {
+    font-size: 30px;
+    font-family: "PlayfairDisplay";
+    color: rgb( 98, 98, 98);
+    position: absolute;
+    left: 630px;
+    top: 542px;
+    width: 377px;
+    height: 25px;
+    z-index: 49;
+}
+
+.text2 {
+    font-size: 14px;
+    font-family: "Times New Roman";
+    color: rgb( 98, 98, 98);
+    line-height: 1.714;
+    text-align: left;
+    position: absolute;
+    left: 629px;
+    top: 607px;
+    width: 405px;
+    height: 61px;
+    z-index: 48;
+}
+
+.photodiary1 {
+    font-size: 14px;
+    font-family: "Ubuntu";
+    color: rgb( 180, 173, 158);
+    text-transform: uppercase;
+    position: absolute;
+    left: 115px;
+    top: 1000px;
+    width: 85px;
+    height: 11px;
+    z-index: 39;
+}
+
+.American_dream {
+    font-size: 30px;
+    font-family: "PlayfairDisplay";
+    color: rgb( 98, 98, 98);
+    position: absolute;
+    left: 115px;
+    top: 1020px;
+    width: 226px;
+    height: 25px;
+    z-index: 38;
+}
+
+.text3 {
+    font-size: 14px;
+    font-family: "PlayfairDisplay";
+    color: rgb( 98, 98, 98);
+    line-height: 1.714;
+    text-align: left;
+    position: absolute;
+    left: 115px;
+    top: 1080px;
+    width: 414px;
+    height: 63px;
+    z-index: 37;
+}
+
+.photodiary2 {
+    font-size: 14px;
+    font-family: "Ubuntu";
+    color: rgb( 180, 173, 158);
+    text-transform: uppercase;
+    position: absolute;
+    left: 630px;
+    top: 1000px;
+    width: 85px;
+    height: 11px;
+    z-index: 30;
+}
+
+.A_day_exploring_the_Alps {
+    font-size: 30px;
+    font-family: "PlayfairDisplay";
+    color: rgb( 98, 98, 98);
+    position: absolute;
+    left: 628px;
+    top: 1020px;
+    width: 324px;
+    height: 30px;
+    z-index: 29;
+}
+
+.text4 {
+    font-size: 14px;
+    font-family: "PlayfairDisplay";
+    color: rgb( 98, 98, 98);
+    line-height: 1.714;
+    text-align: left;
+    position: absolute;
+    left: 629px;
+    top: 1080px;
+    width: 414px;
+    height: 63px;
+    z-index: 28;
+}
+
+.lifestyle1 {
+    font-size: 14px;
+    font-family: "Ubuntu";
+    color: rgb( 180, 173, 158);
+    text-transform: uppercase;
+    position: absolute;
+    left: 115px;
+    top: 1450px;
+    width: 63px;
+    height: 11px;
+    z-index: 19;
+}
+
+.Top_10_song_for_running {
+    font-size: 30px;
+    font-family: "PlayfairDisplay";
+    color: rgb( 98, 98, 98);
+    position: absolute;
+    left: 115px;
+    top: 1470px;
+    width: 321px;
+    height: 30px;
+    z-index: 18;
+}
+
+.text5 {
+    font-size: 14px;
+    font-family: "PlayfairDisplay";
+    color: rgb( 98, 98, 98);
+    line-height: 1.714;
+    text-align: left;
+    position: absolute;
+    left: 115px;
+    top: 1530px;
+    width: 414px;
+    height: 63px;
+    z-index: 17;
+}
+
+.lifestyle2 {
+    font-size: 14px;
+    font-family: "Ubuntu";
+    color: rgb( 180, 173, 158);
+    text-transform: uppercase;
+    position: absolute;
+    left: 630px;
+    top: 1450px;
+    width: 63px;
+    height: 11px;
+    z-index: 19;
+}
+
+.cold_winter_days {
+    font-size: 30px;
+    font-family: "PlayfairDisplay";
+    color: rgb( 98, 98, 98);
+    position: absolute;
+    left: 630px;
+    top: 1470px;
+    width: 321px;
+    height: 30px;
+    z-index: 18;
+}
+
+.text6 {
+    font-size: 14px;
+    font-family: "PlayfairDisplay";
+    color: rgb( 98, 98, 98);
+    line-height: 1.714;
+    text-align: left;
+    position: absolute;
+    left: 630px;
+    top: 1530px;
+    width: 414px;
+    height: 63px;
+    z-index: 17;
+}
+
+.box {
+    border-width: 1px;
+    border-color: rgb( 98, 98, 98);
+    border-style: solid;
+    position: absolute;
+    text-align: center;
+    left: 507px;
+    top: 1700px;
+    width: 162px;
+    height: 58px;
+    z-index: 3;
+}
+
+.Load_more {
+    font-size: 20px;
+    font-family: "PlayfairDisplay";
+    color: rgb( 98, 98, 98);
+    line-height: 1.2;
+    position: absolute;
+    left: 545px;
+    top: 1720px;
+    width: 96px;
+    height: 17px;
+    z-index: 4;
+}
