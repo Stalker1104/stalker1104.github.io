@@ -5,18 +5,6 @@
     height: 77px;
 }
 
-.btn {
-    border-width: 1px;
-    border-color: rgb( 98, 98, 98);
-    border-style: solid;
-    position: absolute;
-    text-align: center;
-    left: 507px;
-    top: 1700px;
-    width: 162px;
-    height: 58px;
-    z-index: 3;
-} 
 
 ._lifestyle {
     color: rgb(2, 120, 244);
@@ -366,7 +354,7 @@
     z-index: 17;
 }
 
-.box {
+.btn {
     border-width: 1px;
     border-color: rgb( 98, 98, 98);
     border-style: solid;
@@ -377,17 +365,4 @@
     width: 162px;
     height: 58px;
     z-index: 3;
-}
-
-.Load_more {
-    font-size: 20px;
-    font-family: "PlayfairDisplay";
-    color: rgb( 98, 98, 98);
-    line-height: 1.2;
-    position: absolute;
-    left: 545px;
-    top: 1720px;
-    width: 96px;
-    height: 17px;
-    z-index: 4;
-}
+} 
