@@ -358,6 +358,7 @@
     border-width: 1px;
     border-color: rgb( 98, 98, 98);
     border-style: solid;
+    background: white;
     position: absolute;
     text-align: center;
     left: 507px;
