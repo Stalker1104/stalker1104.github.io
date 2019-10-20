@@ -1,0 +1,110 @@
+.menu li {
+    display: inline-block;
+    position: center;
+}
+
+.menu li a:hover {
+    text-decoration: none;
+    color: rgb(255, 153, 0)
+}
+
+.menu li a {
+    text-decoration: none;
+}
+
+.image1 {
+    position: absolute;
+    top: 192px;
+    width: 420px;
+    height: 280px;
+    z-index: 62;
+}
+
+.image2 {
+    position: absolute;
+    left: 515px;
+    top: 192px;
+    width: 422px;
+    height: 321px;
+    z-index: 53;
+}
+
+.Lifestyle {
+    font-size: 14px;
+    font-family: "Ubuntu";
+    color: rgb( 180, 173, 158);
+    text-transform: uppercase;
+    position: absolute;
+    top: 503px;
+    width: 63px;
+    height: 11px;
+    z-index: 59;
+}
+
+.Lifestyle1 {
+    font-size: 14px;
+    font-family: "Ubuntu";
+    color: rgb( 180, 173, 158);
+    text-transform: uppercase;
+    position: absolute;
+    left: 515px;
+    top: 503px;
+    width: 63px;
+    height: 11px;
+    z-index: 59;
+}
+
+.More_than_just_a_music_festival_ {
+    font-size: 30px;
+    font-family: "PlayfairDisplay";
+    color: rgb( 98, 98, 98);
+    position: absolute;
+    top: 542px;
+    width: 407px;
+    height: 30px;
+    z-index: 58;
+}
+
+.text1 {
+    font-size: 14px;
+    font-family: "PlayfairDisplay";
+    color: rgb( 98, 98, 98);
+    line-height: 1.714;
+    text-align: left;
+    position: absolute;
+    top: 606px;
+    width: 414px;
+    height: 63px;
+    z-index: 57;
+}
+
+.Life_tastes_better_with_coffee {
+    font-size: 30px;
+    font-family: "PlayfairDisplay";
+    color: rgb( 98, 98, 98);
+    position: absolute;
+    left: 515px;
+    top: 542px;
+    width: 377px;
+    height: 25px;
+    z-index: 49;
+}
+
+.text2 {
+    font-size: 14px;
+    font-family: "Times New Roman";
+    color: rgb( 98, 98, 98);
+    line-height: 1.714;
+    text-align: left;
+    position: absolute;
+    left: 515px;
+    top: 607px;
+    width: 405px;
+    height: 61px;
+    z-index: 48;
+}
+
+.preoritet ol li {
+    box-sizing: content-box;
+    top: 800px;
+}
