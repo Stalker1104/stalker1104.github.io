@@ -1,384 +1,649 @@
-.bx {
-    background: rgb(255, 255, 255);
-    color: rgb(255, 255, 255);
-    height: 77px;
-}
-
-._lifestyle {
-    text-decoration: none;
-    color: rgb(98, 98, 98);
-    font-size: 14px;
-    font-family: "Times New Roman";
+.Home__________About_Us___________page_________s ul li {
+    display: inline;
+    font-family: "OpenSans";
+    font-weight: bold;
     text-transform: uppercase;
-    line-height: 1.714;
-    text-align: center;
-    position: absolute;
-    left: 313px;
-    top: 76px;
-    width: 74px;
-    height: 10px;
-    z-index: 70;
+    line-height: 0.786;
+    margin: 25px;
 }
 
-._lifestyle:hover {
-    color: rgb(2, 144, 244);
+.bl {
+    color: rgb( 26, 188, 156)
 }
 
-.photodiary {
-    font-size: 14px;
-    font-family: "Times New Roman";
-    color: rgb( 98, 98, 98);
-    text-transform: uppercase;
-    line-height: 1.714;
-    text-align: center;
-    position: absolute;
-    left: 504px;
-    top: 76px;
-    width: 90px;
-    height: 10px;
-    z-index: 69;
-}
-
-.photodiary:hover {
-    color: rgb(2, 144, 244);
-}
-
-.music {
-    font-size: 14px;
-    font-family: "Times New Roman";
-    color: rgb( 98, 98, 98);
-    text-transform: uppercase;
-    line-height: 1.714;
-    text-align: center;
-    position: absolute;
-    left: 695px;
-    top: 76px;
-    width: 45px;
-    height: 10px;
-    z-index: 68;
-}
-
-.music:hover {
-    color: rgb(2, 144, 244);
-}
-
-.travel {
-    font-size: 14px;
-    font-family: "Times New Roman";
-    color: rgb( 98, 98, 98);
-    text-transform: uppercase;
-    line-height: 1.714;
-    text-align: center;
-    position: absolute;
-    left: 833px;
-    top: 76px;
-    width: 54px;
-    height: 10px;
-    z-index: 67;
-}
-
-.travel:hover {
-    color: rgb(2, 144, 244)
-}
-
-.image1 {
-    position: absolute;
-    left: 115px;
-    top: 192px;
-    width: 420px;
-    height: 280px;
-    z-index: 62;
-}
-
-.image2 {
-    position: absolute;
-    left: 630px;
-    top: 192px;
-    width: 422px;
-    height: 321px;
-    z-index: 53;
-}
-
-.image3 {
-    position: absolute;
-    left: 115px;
-    top: 700px;
-    width: 488px;
-    height: 326px;
-    z-index: 42;
-}
-
-.image4 {
-    position: absolute;
-    left: 630px;
-    top: 700px;
-    width: 420px;
-    height: 298px;
-    z-index: 33;
-}
-
-.image5 {
-    position: absolute;
-    left: 115px;
-    top: 1150px;
-    width: 431px;
-    height: 647px;
-    z-index: 22;
-}
-
-.image6 {
-    position: absolute;
-    left: 630px;
-    top: 1150px;
-    width: 453px;
-    height: 316px;
-    z-index: 13;
-}
-
-.Lifestyle {
-    font-size: 14px;
-    font-family: "Ubuntu";
-    color: rgb( 180, 173, 158);
-    text-transform: uppercase;
-    position: absolute;
-    left: 115px;
-    top: 503px;
-    width: 63px;
-    height: 11px;
-    z-index: 59;
-}
-
-.More_than_just_a_music_festival_ {
+.mart {
     font-size: 30px;
-    font-family: "PlayfairDisplay";
-    color: rgb( 98, 98, 98);
-    position: absolute;
-    left: 115px;
-    top: 542px;
-    width: 407px;
-    height: 30px;
-    z-index: 58;
-}
-
-.text1 {
-    font-size: 14px;
-    font-family: "PlayfairDisplay";
-    color: rgb( 98, 98, 98);
-    line-height: 1.714;
-    text-align: left;
-    position: absolute;
-    left: 115px;
-    top: 606px;
-    width: 414px;
-    height: 63px;
-    z-index: 57;
-}
-
-.lifestyle {
-    font-size: 14px;
-    font-family: "Ubuntu";
-    color: rgb( 180, 173, 158);
+    font-family: "Roboto";
+    color: rgb(51, 52, 52);
     text-transform: uppercase;
+    line-height: 1.067;
     position: absolute;
-    left: 630px;
-    top: 503px;
-    width: 63px;
-    height: 11px;
-    z-index: 50;
+    left: 100px;
+    top: 25px;
+    width: 78px;
+    height: 21px;
+    z-index: 115;
 }
 
-.Life_tastes_better_with_coffee {
-    font-size: 30px;
-    font-family: "PlayfairDisplay";
-    color: rgb( 98, 98, 98);
+.mart::first-letter {
+    color: rgb( 26, 188, 156);
+}
+
+.FEATURED_PRODUCTS {
+    font-size: 48px;
+    font-family: "Roboto";
+    color: rgb( 81, 81, 81);
+    text-transform: uppercase;
+    line-height: 0.667;
+    text-align: center;
+    position: absolute;
+    left: 450px;
+    top: 210px;
+    z-index: 110;
+}
+
+.aaa {
+    background-color: rgb( 26, 188, 156);
     position: absolute;
     left: 630px;
-    top: 542px;
-    width: 377px;
-    height: 25px;
+    top: 260px;
+    width: 164px;
+    height: 7px;
+    z-index: 109;
+}
+
+._26 {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: rgb( 255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.778;
+    text-align: center;
+    position: absolute;
+    left: 412px;
+    top: 621px;
+    width: 30px;
+    height: 17px;
     z-index: 49;
 }
 
-.text2 {
-    font-size: 14px;
-    font-family: "Times New Roman";
-    color: rgb( 98, 98, 98);
-    line-height: 1.714;
-    text-align: left;
+.Rectangle_52 {
+    background-color: rgb( 255, 255, 255);
+    opacity: 0.439;
     position: absolute;
-    left: 629px;
-    top: 607px;
-    width: 405px;
-    height: 61px;
+    left: 401px;
+    top: 611px;
+    width: 54px;
+    height: 40px;
     z-index: 48;
 }
 
-.photodiary1 {
-    font-size: 14px;
-    font-family: "Ubuntu";
-    color: rgb( 180, 173, 158);
-    text-transform: uppercase;
+.Rectangle_51 {
+    background-color: rgb( 50, 50, 50);
     position: absolute;
-    left: 115px;
-    top: 1000px;
-    width: 85px;
-    height: 11px;
-    z-index: 39;
+    left: 200px;
+    top: 611px;
+    width: 255px;
+    height: 40px;
+    z-index: 46;
 }
 
-.American_dream {
-    font-size: 30px;
-    font-family: "PlayfairDisplay";
-    color: rgb( 98, 98, 98);
+.Blue_Tshirt {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: rgb( 255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.778;
+    text-align: left;
     position: absolute;
-    left: 115px;
+    left: 210px;
+    top: 620px;
+    z-index: 47;
+}
+
+#prod1 {
+    position: absolute;
+    left: 200px;
+    top: 329px;
+    background: rgb(233, 240, 252);
+}
+
+._31 {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: rgb( 255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.778;
+    text-align: center;
+    position: absolute;
+    left: 712px;
+    top: 621px;
+    width: 30px;
+    height: 17px;
+    z-index: 49;
+}
+
+.Rectangle_54 {
+    background-color: rgb( 255, 255, 255);
+    opacity: 0.439;
+    position: absolute;
+    left: 701px;
+    top: 611px;
+    width: 54px;
+    height: 40px;
+    z-index: 48;
+}
+
+.Rectangle_53 {
+    background-color: rgb( 50, 50, 50);
+    position: absolute;
+    left: 500px;
+    top: 611px;
+    width: 255px;
+    height: 40px;
+    z-index: 46;
+}
+
+.WOMAN_shirt {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: rgb( 255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.778;
+    text-align: left;
+    position: absolute;
+    left: 510px;
+    top: 620px;
+    z-index: 47;
+}
+
+#prod2 {
+    position: absolute;
+    left: 500px;
+    top: 329px;
+}
+
+._21 {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: rgb( 255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.778;
+    text-align: center;
+    position: absolute;
+    left: 1012px;
+    top: 621px;
+    width: 30px;
+    height: 17px;
+    z-index: 49;
+}
+
+.Rectangle_56 {
+    background-color: rgb( 255, 255, 255);
+    opacity: 0.439;
+    position: absolute;
+    left: 1001px;
+    top: 611px;
+    width: 54px;
+    height: 40px;
+    z-index: 48;
+}
+
+.Rectangle_55 {
+    background-color: rgb( 50, 50, 50);
+    position: absolute;
+    left: 800px;
+    top: 611px;
+    width: 255px;
+    height: 40px;
+    z-index: 46;
+}
+
+.YELLOW_Tshirt {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: rgb( 255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.778;
+    text-align: left;
+    position: absolute;
+    left: 810px;
+    top: 620px;
+    z-index: 47;
+}
+
+#prod3 {
+    position: absolute;
+    left: 800px;
+    top: 310px;
+}
+
+._56 {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: rgb( 255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.778;
+    text-align: center;
+    position: absolute;
+    left: 1312px;
+    top: 621px;
+    width: 30px;
+    height: 17px;
+    z-index: 49;
+}
+
+.Rectangle_58 {
+    background-color: rgb( 255, 255, 255);
+    opacity: 0.439;
+    position: absolute;
+    left: 1301px;
+    top: 611px;
+    width: 54px;
+    height: 40px;
+    z-index: 48;
+}
+
+.Rectangle_57 {
+    background-color: rgb( 50, 50, 50);
+    position: absolute;
+    left: 1100px;
+    top: 611px;
+    width: 255px;
+    height: 40px;
+    z-index: 46;
+}
+
+.Cool_lingerie {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: rgb( 255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.778;
+    text-align: left;
+    position: absolute;
+    left: 1110px;
+    top: 620px;
+    z-index: 47;
+}
+
+#prod4 {
+    position: absolute;
+    left: 1100px;
+    top: 310px;
+}
+
+._261 {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: rgb( 255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.778;
+    text-align: center;
+    position: absolute;
+    left: 412px;
+    top: 1021px;
+    width: 30px;
+    height: 17px;
+    z-index: 49;
+}
+
+.Rectangle_521 {
+    background-color: rgb( 255, 255, 255);
+    opacity: 0.439;
+    position: absolute;
+    left: 401px;
+    top: 1011px;
+    width: 54px;
+    height: 40px;
+    z-index: 48;
+}
+
+.Rectangle_511 {
+    background-color: rgb( 50, 50, 50);
+    position: absolute;
+    left: 200px;
+    top: 1011px;
+    width: 255px;
+    height: 40px;
+    z-index: 46;
+}
+
+.Blue_Tshirt1 {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: rgb( 255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.778;
+    text-align: left;
+    position: absolute;
+    left: 210px;
     top: 1020px;
-    width: 226px;
-    height: 25px;
+    z-index: 47;
+}
+
+#prod11 {
+    position: absolute;
+    left: 200px;
+    top: 729px;
+}
+
+._311 {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: rgb( 255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.778;
+    text-align: center;
+    position: absolute;
+    left: 712px;
+    top: 1021px;
+    width: 30px;
+    height: 17px;
+    z-index: 49;
+}
+
+.Rectangle_541 {
+    background-color: rgb( 255, 255, 255);
+    opacity: 0.439;
+    position: absolute;
+    left: 701px;
+    top: 1011px;
+    width: 54px;
+    height: 40px;
+    z-index: 48;
+}
+
+.Rectangle_531 {
+    background-color: rgb( 50, 50, 50);
+    position: absolute;
+    left: 500px;
+    top: 1011px;
+    width: 255px;
+    height: 40px;
+    z-index: 46;
+}
+
+.WOMAN_shirt1 {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: rgb( 255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.778;
+    text-align: left;
+    position: absolute;
+    left: 510px;
+    top: 1020px;
+    z-index: 47;
+}
+
+#prod21 {
+    position: absolute;
+    left: 500px;
+    top: 729px;
+}
+
+._211 {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: rgb( 255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.778;
+    text-align: center;
+    position: absolute;
+    left: 1012px;
+    top: 1021px;
+    width: 30px;
+    height: 17px;
+    z-index: 49;
+}
+
+.Rectangle_561 {
+    background-color: rgb( 255, 255, 255);
+    opacity: 0.439;
+    position: absolute;
+    left: 1001px;
+    top: 1011px;
+    width: 54px;
+    height: 40px;
+    z-index: 48;
+}
+
+.Rectangle_551 {
+    background-color: rgb( 50, 50, 50);
+    position: absolute;
+    left: 800px;
+    top: 1011px;
+    width: 255px;
+    height: 40px;
+    z-index: 46;
+}
+
+.YELLOW_Tshirt1 {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: rgb( 255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.778;
+    text-align: left;
+    position: absolute;
+    left: 810px;
+    top: 1020px;
+    z-index: 47;
+}
+
+#prod31 {
+    position: absolute;
+    left: 800px;
+    top: 710px;
+}
+
+._561 {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: rgb( 255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.778;
+    text-align: center;
+    position: absolute;
+    left: 1312px;
+    top: 1021px;
+    width: 30px;
+    height: 17px;
+    z-index: 49;
+}
+
+.Rectangle_581 {
+    background-color: rgb( 255, 255, 255);
+    opacity: 0.439;
+    position: absolute;
+    left: 1301px;
+    top: 1011px;
+    width: 54px;
+    height: 40px;
+    z-index: 48;
+}
+
+.Rectangle_571 {
+    background-color: rgb( 50, 50, 50);
+    position: absolute;
+    left: 1100px;
+    top: 1011px;
+    width: 255px;
+    height: 40px;
+    z-index: 46;
+}
+
+.Cool_lingerie1 {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: rgb( 255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.778;
+    text-align: left;
+    position: absolute;
+    left: 1110px;
+    top: 1020px;
+    z-index: 47;
+}
+
+#prod41 {
+    position: absolute;
+    left: 1100px;
+    top: 710px;
+}
+
+.LATEST_NEWS {
+    font-size: 48px;
+    font-family: "Roboto";
+    color: rgb( 85, 82, 82);
+    text-transform: uppercase;
+    line-height: 0.667;
+    text-align: center;
+    position: absolute;
+    left: 661px;
+    top: 1200px;
     z-index: 38;
 }
 
-.text3 {
-    font-size: 14px;
-    font-family: "PlayfairDisplay";
-    color: rgb( 98, 98, 98);
-    line-height: 1.714;
-    text-align: left;
+.Rectangle_8_copy_3 {
+    background-color: rgb( 78, 198, 171);
     position: absolute;
-    left: 115px;
-    top: 1080px;
-    width: 414px;
-    height: 63px;
+    left: 729px;
+    top: 1250px;
+    width: 164px;
+    height: 7px;
     z-index: 37;
 }
 
-.photodiary2 {
-    font-size: 14px;
-    font-family: "Ubuntu";
-    color: rgb( 180, 173, 158);
-    text-transform: uppercase;
+.img1 {
     position: absolute;
-    left: 630px;
-    top: 1000px;
-    width: 85px;
-    height: 11px;
+    top: 1350px;
+    left: 200px;
+}
+
+.news {
+    font-size: 14px;
+    font-family: "Times New Roman";
+    color: rgb( 85, 82, 82);
+    line-height: 1.857;
+    position: absolute;
+    left: 200px;
+    top: 1620px;
+    width: 300px;
+    height: 62px;
+    z-index: 32;
+}
+
+.Rectangle_35 {
+    background-color: rgb( 78, 198, 171);
+    position: absolute;
+    left: 200px;
+    top: 1610px;
+    width: 136px;
+    height: 3px;
     z-index: 30;
 }
 
-.A_day_exploring_the_Alps {
-    font-size: 30px;
-    font-family: "PlayfairDisplay";
-    color: rgb( 98, 98, 98);
+.news1 {
+    font-size: 18px;
+    font-family: "OpenSans";
+    color: rgb( 85, 82, 82);
+    line-height: 1.444;
     position: absolute;
-    left: 628px;
-    top: 1020px;
-    width: 324px;
-    height: 30px;
-    z-index: 29;
+    left: 200px;
+    top: 1557px;
+    width: 301px;
+    height: 44px;
+    z-index: 31;
 }
 
-.text4 {
+.img2 {
+    position: absolute;
+    top: 1350px;
+    left: 550px;
+}
+
+.news2 {
     font-size: 14px;
-    font-family: "PlayfairDisplay";
-    color: rgb( 98, 98, 98);
-    line-height: 1.714;
-    text-align: left;
+    font-family: "Times New Roman";
+    color: rgb( 85, 82, 82);
+    line-height: 1.857;
     position: absolute;
-    left: 629px;
-    top: 1080px;
-    width: 414px;
-    height: 63px;
-    z-index: 28;
+    left: 550px;
+    top: 1620px;
+    width: 300px;
+    height: 62px;
+    z-index: 32;
 }
 
-.lifestyle1 {
+.Rectangle_351 {
+    background-color: rgb( 78, 198, 171);
+    position: absolute;
+    left: 550px;
+    top: 1610px;
+    width: 136px;
+    height: 3px;
+    z-index: 30;
+}
+
+.news3 {
+    font-size: 18px;
+    font-family: "OpenSans";
+    color: rgb( 85, 82, 82);
+    line-height: 1.444;
+    position: absolute;
+    left: 550px;
+    top: 1557px;
+    width: 301px;
+    height: 44px;
+    z-index: 31;
+}
+
+.img2 {
+    position: absolute;
+    top: 1350px;
+    left: 550px;
+}
+
+.img3 {
+    position: absolute;
+    top: 1350px;
+    left: 900px;
+}
+
+.news4 {
     font-size: 14px;
-    font-family: "Ubuntu";
-    color: rgb( 180, 173, 158);
-    text-transform: uppercase;
+    font-family: "Times New Roman";
+    color: rgb( 85, 82, 82);
+    line-height: 1.857;
     position: absolute;
-    left: 115px;
-    top: 1450px;
-    width: 63px;
-    height: 11px;
-    z-index: 19;
+    left: 900px;
+    top: 1620px;
+    width: 300px;
+    height: 62px;
+    z-index: 32;
 }
 
-.Top_10_song_for_running {
-    font-size: 30px;
-    font-family: "PlayfairDisplay";
-    color: rgb( 98, 98, 98);
+.Rectangle_352 {
+    background-color: rgb( 78, 198, 171);
     position: absolute;
-    left: 115px;
-    top: 1470px;
-    width: 321px;
-    height: 30px;
-    z-index: 18;
+    left: 900px;
+    top: 1610px;
+    width: 136px;
+    height: 3px;
+    z-index: 30;
 }
 
-.text5 {
-    font-size: 14px;
-    font-family: "PlayfairDisplay";
-    color: rgb( 98, 98, 98);
-    line-height: 1.714;
-    text-align: left;
+.news5 {
+    font-size: 18px;
+    font-family: "OpenSans";
+    color: rgb( 85, 82, 82);
+    line-height: 1.444;
     position: absolute;
-    left: 115px;
-    top: 1530px;
-    width: 414px;
-    height: 63px;
-    z-index: 17;
-}
-
-.lifestyle2 {
-    font-size: 14px;
-    font-family: "Ubuntu";
-    color: rgb( 180, 173, 158);
-    text-transform: uppercase;
-    position: absolute;
-    left: 630px;
-    top: 1450px;
-    width: 63px;
-    height: 11px;
-    z-index: 19;
-}
-
-.cold_winter_days {
-    font-size: 30px;
-    font-family: "PlayfairDisplay";
-    color: rgb( 98, 98, 98);
-    position: absolute;
-    left: 630px;
-    top: 1470px;
-    width: 321px;
-    height: 30px;
-    z-index: 18;
-}
-
-.text6 {
-    font-size: 14px;
-    font-family: "PlayfairDisplay";
-    color: rgb( 98, 98, 98);
-    line-height: 1.714;
-    text-align: left;
-    position: absolute;
-    left: 630px;
-    top: 1530px;
-    width: 414px;
-    height: 63px;
-    z-index: 17;
-}
-
-.btn {
-    border-width: 1px;
-    border-color: rgb( 98, 98, 98);
-    border-style: solid;
-    background: white;
-    position: absolute;
-    text-align: center;
-    left: 507px;
-    top: 1700px;
-    width: 162px;
-    height: 58px;
-    z-index: 3;
+    left: 900px;
+    top: 1557px;
+    width: 301px;
+    height: 44px;
+    z-index: 31;
 }
