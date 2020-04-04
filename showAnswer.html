@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <p>Пятеро каменщиков вначале рабочей недели получили равное количество кирпича. Когда трое из них израсходовали по 326 кирпичей, то у них осталось столько кирпичей, сколько вначале получили другие два каменщика. Сколько всего кирпичей получили каменщики
+        вначале недели?</p>
+    <p id="answ1" class="hide" style="display: none;"><span>вначале недели каменщики получили всего 2445 кирпичей.</span></p>
+    <input type="text" id="in_1" placeholder="Ведите ответ...">
+    <p>Токарь и его ученик вместе за смену выточили 130 деталей. Сколько деталей выточил каждый из них, если часть деталей, которую выточил токарь, уменьшенная в 3 раза, была равна деталям, которые выточил ученик, увеличенным в 4 раза?</p>
+    <p id="answ2" class="hide" style="display: none;"><span>токарь выточил 120 деталей, ученик 10.</span></p>
+    <p id="in2_p">
+        <p>Сколько деталей выточил учитель  <input type="text" id="in_2_1" placeholder="Ведите ответ..."></p>
+        <p>Сколько деталей выточил ученик   <input type="text" id="in_2_2" placeholder="Ведите ответ..."></p>
+    </p>
+    <button id="check">Проверить</button>
+    
+    <div id="result" style="display: none;"><p>Ответов:<br><div style="color:green">Правильных:0</div><br><div style="color:red">Неправильных:0</div></p></div>
+    <!--Кнопка, при нажатии на которую будет показываться абзац -->
+
+
+    <script>
+        //rgba(0,255,0,0.5)    green
+        //rgba(255,0,0,0.5)    red
+        var ans_1=0;
+
+
+        check.onclick=function(){
+            if(in_1.value=="2445" || in_1.value==2445){ans_1++;in_1.style.backgroundColor="rgba(0,255,0,0.5)";}else{in_1.style.backgroundColor="rgba(255,0,0,0.5)";}
+            if(in_2_1.value=="120" || in_2_1.value==120){ans_1++;in_2_1.style.backgroundColor="rgba(0,255,0,0.5)";}else{in_2_1.style.backgroundColor="rgba(255,0,0,0.5)";}
+            if(in_2_2.value=="10" || in_2_2.value==10){ans_1++;in_2_2.style.backgroundColor="rgba(0,255,0,0.5)";}else{in_2_2.style.backgroundColor="rgba(255,0,0,0.5)";}
+            result.innerHTML='<p>Ответов:<br><div style="color:green">Правильных: '+ans_1+'</div><br><div style="color:red">Неправильных: '+(3-ans_1)+'</div></p>'
+            result.style.display="block"
+            ans_1=0;
+            answ1.style.display="block"
+            answ2.style.display="block"
+            
+        }
+
+        
+    </script>
+
+</body>
+
+</html>
